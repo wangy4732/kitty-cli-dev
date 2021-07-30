@@ -1,0 +1,22 @@
+{
+  "name": "@kitty-cli-devs/core",
+  "version": "1.0.0",
+  "description": "kitty-cli-devs core",
+  "author": "wyw <wywjobnumber@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@imooc-cli/utils": "^1.1.1"
+  }
+}
