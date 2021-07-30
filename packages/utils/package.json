@@ -1,5 +1,5 @@
 {
-  "name": "@kitty-cli-devs/utils",
+  "name": "@kitty-cli-dev/utils",
   "version": "1.0.4",
   "description": "kitty-cli-devs utils",
   "author": "wyw <wywjobnumber@gmail.com>",
@@ -19,7 +19,7 @@
   "dependencies": {
     "@imooc-cli/utils": "^1.1.1"
   },
-  "gitHead": "c22ec659da22f2be0b6478663f0c1e48ce274f65",
+  "gitHead": "249f73288d93d3a8973fc4ef5d8a1e771f2311f1",
   "publishConfig": {
     "access": "public"
   }
